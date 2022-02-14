@@ -1,13 +1,16 @@
 # ED00 Labeler
 
-Manual milk labeler designed by EDMS ([web site](https://www.ed-ms.fr))
+**Manual milk labeler designed by EDMS ([web site](https://www.ed-ms.fr)).**
+
+*If you think this design is useful, do not hesitate to **donate** :wink:, see [web site](https://www.ed-ms.fr) for that, thanks :+1:*
+
+*If you think we can improve this design :monocle_face:, please create an **Issue** or a **Pull request**.*
 
 ## 3D printed parts
 
 ### 3D printing recommended parameters
 - Material : PETG
 - Layers height : 0.3mm
-- Number of perimeters : 2 mini
 - Part filling : 20%
 - No suppport (except on 001001)
 
