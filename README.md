@@ -11,10 +11,12 @@ Manual milk labeler designed by EDMS ([web site](https://www.ed-ms.fr))
 - Part filling : 20%
 - No suppport (except on 001001)
 
+
+
 ### 3D printing parts
-| N° | Reference  | Qty |
-| -- | ---------- | --- |
-| 1  | 002001     | 1   |
+| N° | Reference  |Image| Qty |
+| -- | ---------- | --- | --- |
+| 1  | 002001     |![](131026.jpg)| 1   |
 | 2  | 002002     | 1   |
 | 3  | 002003     | 1   |
 | 4  | 002004     | 1   |
