@@ -1,20 +1,37 @@
 # ED00 Labeler
 
-**Manual milk labeler designed by EDMS ([web site](https://www.ed-ms.fr)).**
+## Manual milk labeler, designed by EDMS ([web site](https://www.ed-ms.fr))
 
-*If you think this design is useful, do not hesitate to **donate** :wink:, see [web site](https://www.ed-ms.fr) for that, thanks :+1:*
+*If you think this design is useful, do not hesitate to **donate** :wink:, see [company web site](https://www.ed-ms.fr) for that, thanks :+1:*
 
-*If you think we can improve this design :monocle_face:, please create an **Issue** or a **Pull request**.*
+*If you find some mistakes or improvement on this design :monocle_face:, please create an **Issue** or a **Pull request** on this repository.*
 
 ## 3D printed parts
+- Total of ~1.2kg of plastic filament required
+- ~60 hours of printing (on PRUSA MK3S)
+- Minimum printing volume requested : 240mm x 205mm x 152mm
+
+
+### Other parts
+| N° | Designation                           | Qty | Proposed supplier                 | Note    |
+| -- | ------------------------------------- | --- | --------------------------------- | --------|
+| 1  | Hex socket button head, flanged M4x16 | 29  | https://www.visseriefixations.fr/ |         |
+| 2  | Hex socket button head, flanged M4x30 | 4   | https://www.visseriefixations.fr/ |for 1009 |
+| 2  | Headless, hex socket M4x6             | 11  | https://www.visseriefixations.fr/ |         |
+
+
+
+
+
+
+
+
 
 ### 3D printing recommended parameters
 - Material : PETG
 - Layers height : 0.3mm
 - Part filling : 20%
-- No suppport (except on 001001)
-
-
+- No suppport required (except on 001001)
 
 ### 3D printing parts
 | N° | Reference  |Image          | Qty |
