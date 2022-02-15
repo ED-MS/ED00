@@ -13,17 +13,28 @@
 
 
 ### Other parts
-| N° | Designation                           | Qty | Proposed supplier                 | Note    |
-| -- | ------------------------------------- | --- | --------------------------------- | --------|
-| 1  | Hex socket button head, flanged M4x16 | 29  | https://www.visseriefixations.fr/ |         |
-| 2  | Hex socket button head, flanged M4x30 | 4   | https://www.visseriefixations.fr/ |for 1009 |
-| 2  | Headless, hex socket M4x6             | 11  | https://www.visseriefixations.fr/ |         |
-
-
-
-
-
-
+| N° | Designation                                                | Qty | Proposed supplier                             | Note      |
+| -- | ---------------------------------------------------------- | --- | --------------------------------------------- | ----------|
+| 1  | Hex socket button head, flanged screw M4x16                | 29  | www.visseriefixations.fr/                     |           |
+| 2  | Hex socket button head, flanged screw M4x30                | 4   | www.visseriefixations.fr/                     |for 1009   |
+| 3  | Headless, hex socket screw M4x6                            | 11  | www.visseriefixations.fr/                     |           |
+| 4  | Hex head screw M6x30                                       | 4   | www.visseriefixations.fr/                     |           |
+| 5  | Hex head screw M6x45                                       | 3   | www.visseriefixations.fr/                     |           |
+| 6  | Square nut M4x7x2                                          | 21  | www.visseriefixations.fr/                     |           |
+| 7  | Self locking hex nut M4                                    | 12  | www.visseriefixations.fr/                     |           |
+| 8  | Hex nut M6                                                 | 5   | www.visseriefixations.fr/                     |           |
+| 9  | Self locking hex nut M6                                    | 2   | www.visseriefixations.fr/                     |for springs|
+| 10 | Rigid flange coupling Ø8                                   | 3   | eBay or Aliexpress or www.ed-ms.fr            |           |
+| 11 | Orange foam roll Ø45x25mm length 60mm                      | 3   | www.ed-ms.fr                                  |           |
+| 12 | Spring Ø8.63mm ext, free length 40mm, wire diameter 0.63mm | 2   | fr.rs-online.com/web/ or www.ed-ms.fr |ref 751512 |
+| 13 | Round belt Ø3mm PU weldable                                | 1m  | www.fiamag.com or www.ed-ms.fr        |           |
+| 14 | O Ring EPDM70 Ø15,47x3.53                                  | 78  | www.123roulement.com or www.ed-ms.fr  |           |
+| 15 | Aluminium rod or tube Ø8mm length 186mm                    | 2   | www.igus.fr or www.ed-ms.fr           |           |
+| 16 | Aluminium rod or tube Ø8mm length 80mm                     | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 17 | Aluminium rod or tube Ø8mm length 260mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 18 | Aluminium rod or tube Ø8mm length 160mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 19 | Aluminium rod or tube Ø8mm length 232mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 20 | Aluminium tube Ø8mm length 26mm                            | 1   | www.igus.fr or www.ed-ms.fr           |for 1009   |
 
 
 
