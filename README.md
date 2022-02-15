@@ -9,7 +9,7 @@
 This repository contains :
 - STL files of 3D printed parts
 - image files of 3D printed part
-- PDF 3D file to see where each parts is located
+- PDF 3D file to see where each part is located
 
 ## 3D printed parts
 - Total of ~1.2kg of plastic filament required
