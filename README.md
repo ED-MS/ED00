@@ -65,7 +65,7 @@ This repository contains :
 | 5  | Hex head screw M6x45                                       | 3   | www.visseriefixations.fr/             |           |
 | 6  | Square nut M4x7x2                                          | 21  | www.visseriefixations.fr/             |           |
 | 7  | Self locking hex nut M4                                    | 12  | www.visseriefixations.fr/             |           |
-| 8  | Hex nut M6                                                 | 5   | www.visseriefixations.fr/             |           |
+| 8  | Hex nut M6                                                 | 8   | www.visseriefixations.fr/             |           |
 | 9  | Self locking hex nut M6                                    | 2   | www.visseriefixations.fr/             |for springs|
 | 10 | Rigid flange coupling Ø8                                   | 3   | eBay or Aliexpress or www.ed-ms.fr    |           |
 | 11 | Orange foam roll Ø45x25mm length 60mm                      | 3   | www.ed-ms.fr                          |           |
@@ -73,10 +73,10 @@ This repository contains :
 | 13 | Round belt Ø3mm PU weldable                                | 1m  | www.fiamag.com or www.ed-ms.fr        |           |
 | 14 | O Ring EPDM70 Ø15,47x3.53                                  | 78  | www.123roulement.com or www.ed-ms.fr  |           |
 | 15 | Flange ring IGUS GFM-0810-11                               | 17  | www.igus.fr or www.ed-ms.fr           |           |
-| 16 | Aluminium rod or tube Ø8mm length 186mm                    | 2   | www.igus.fr or www.ed-ms.fr           |           |
-| 17 | Aluminium rod or tube Ø8mm length 80mm                     | 1   | www.igus.fr or www.ed-ms.fr           |           |
-| 18 | Aluminium rod or tube Ø8mm length 260mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
-| 19 | Aluminium rod or tube Ø8mm length 160mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
-| 20 | Aluminium rod or tube Ø8mm length 232mm                    | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 16 | Aluminium rod AWMP-08 or tube Ø8mm length 186mm            | 2   | www.igus.fr or www.ed-ms.fr           |           |
+| 17 | Aluminium rod AWMP-08 or tube Ø8mm length 80mm             | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 18 | Aluminium rod AWMP-08 or tube Ø8mm length 260mm            | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 19 | Aluminium rod AWMP-08 or tube Ø8mm length 160mm            | 1   | www.igus.fr or www.ed-ms.fr           |           |
+| 20 | Aluminium rod AWMP-08 or tube Ø8mm length 232mm            | 1   | www.igus.fr or www.ed-ms.fr           |           |
 | 21 | Aluminium tube Ø8mm length 26mm                            | 1   | www.igus.fr or www.ed-ms.fr           |for 1009   |
 
