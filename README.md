@@ -84,7 +84,7 @@ With alternative design (ED00-1), labels gluing with milk is not possible but la
 | 10 | Rigid flange coupling Ø8                                   | 3        | 2            | eBay or Aliexpress or www.ed-ms.fr    |           |
 | 11 | Orange foam roll Ø45x25mm length 60mm                      | 3        | 3            | www.ed-ms.fr                          |           |
 | 12 | Spring Ø8.63mm ext, free length 40mm, wire diameter 0.63mm | 2        | 2            | fr.rs-online.com/web/ or www.ed-ms.fr |ref 751512 |
-| 13 | Round belt Ø3mm PU weldable #1                             | 220mm    | 220mm        | www.fiamag.com or www.ed-ms.fr        |           |
+| 13 | Round belt Ø3mm PU weldable #1                             | 220mm    | 233mm        | www.fiamag.com or www.ed-ms.fr        |           |
 | 14 | Round belt Ø3mm PU weldable #2                             | 410mm    | 360mm        | www.fiamag.com or www.ed-ms.fr        |           |
 | 15 | Round belt Ø3mm PU weldable #3                             | 0        | 350mm        | www.fiamag.com or www.ed-ms.fr        |           |
 | 16 | O Ring EPDM70 Ø15,47x3.53                                  | 78       | 78           | www.123roulement.com or www.ed-ms.fr  |           |
